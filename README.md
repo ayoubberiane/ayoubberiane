@@ -34,7 +34,7 @@ To run the website locally on your machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/ayoubberiane/ayoubberiane.git
 
 	2.	Navigate into the project directory:
 
