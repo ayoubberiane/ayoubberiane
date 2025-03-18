@@ -289,7 +289,7 @@ nav ul li a:hover {
 }
 
 .footer-socials a {
-    color: white; /* White color for LinkedIn and Linktree */
+    color: black; /* White color for LinkedIn and Linktree */
     text-decoration: underline; /* Always underlined */
     font-weight: normal; /* Remove bold */
     margin-right: 10px; /* Space between links */
