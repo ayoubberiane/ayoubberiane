@@ -284,20 +284,20 @@ nav ul li a:hover {
 /* Social Links Styling */
 .footer-socials {
     background-color: #fff; /* White background */
-    text-align: center;
-    padding: 10px 0;
+    text-align: left; /* Align links to the left */
+    padding: 10px 20px; /* Add padding for spacing */
 }
 
 .footer-socials a {
-    color: black; /* Black color for LinkedIn and Linktree */
-    text-decoration: none;
-    font-weight: bold;
-    margin: 0 10px;
+    color: white; /* White color for LinkedIn and Linktree */
+    text-decoration: underline; /* Always underlined */
+    font-weight: normal; /* Remove bold */
+    margin-right: 10px; /* Space between links */
     font-size: 16px;
 }
 
 .footer-socials a:hover {
-    color: #555; /* Darker grey on hover */
+    color: #ddd; /* Light grey on hover */
 }
 
 /* Footer Styling */
