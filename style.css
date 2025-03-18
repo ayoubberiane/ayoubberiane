@@ -281,16 +281,42 @@ nav ul li a:hover {
     background-color: #2980b9;
 }
 
-/* Footer */
-footer {
-    background-color: #1a252f;
-    color: #fff;
-    padding: 20px 0;
+/* Social Links Styling */
+.footer-socials {
+    background-color: #fff; /* White background */
     text-align: center;
+    padding: 10px 0;
 }
 
-footer p {
+.footer-socials a {
+    color: black; /* Black color for LinkedIn and Linktree */
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 10px;
     font-size: 16px;
+}
+
+.footer-socials a:hover {
+    color: #555; /* Darker grey on hover */
+}
+
+/* Footer Styling */
+footer {
+    background-color: #1a252f; /* Dark footer background */
+    color: white; /* White text */
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}
+
+footer a {
+    color: white; /* Makes the Privacy Policy link white */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline; /* Underline on hover */
 }
 
 /* Responsive Styles */
